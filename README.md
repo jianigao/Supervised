@@ -8,7 +8,7 @@ This repository includes supervised learning algorithms using machine learning a
   + Random forests
   + XGBoost
   + Neural networks
-* Classification: to predict discrete values (i.e. binary values like 0/1, yes/no, true/false), e.g. credit card approval:
+* Classification: to predict discrete values (i.e. binary values like 0/1, yes/no, true/false), e.g. credit card approval
   + Decision tree
   + K nearest neighbors
   + Logistic regression
